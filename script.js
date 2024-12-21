@@ -109,11 +109,11 @@ function createGift() {
   gift.style.top = '-50px';
 
   const messages = [
-    '🎁 Chúc mừng! Mỹ Liên nhận được một điều ước',
-    '🎄 Giáng sinh an lành nhoo bé eoo Mỹ LiênLiên!',
+    '🎁 Chúc mừng! Anh iu nhận được một điều ước',
+    '🎄 Giáng sinh an lành nhaaaaaa !',
     '⭐ Năm mới hạnh phúc!',
-    '🎅 Ho Ho Ho! Quà từ ông già Noel Hữu Thống nènè',
-    'Yêu thương Mỹ Liên nhiều nhiều ',
+    '🎅 Ho Ho Ho! Quà từ ông già Noel tới nè ',
+    'Yêu thương anh iu nhiều nhiều ',
   ];
 
   gift.addEventListener('click', () => {
